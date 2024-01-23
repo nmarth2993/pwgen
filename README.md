@@ -55,4 +55,5 @@ And this is only the lower bound (15 character passphrase + 4 extra characters)
 #### PS
 
 Of course, you should probably just use a password manager :)
-<small>as long as they don't get breached</small>
+
+<sub><sup>as long as they don't get breached</sup></sub>
