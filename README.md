@@ -34,6 +34,6 @@ Using a SHA256 hash benchmark of 3270 MH/s on a modern CPU:
 
 4.25e18/3.27e9 ≈ 1.3e9 seconds ≈ 41 years
 
-Wolfram tells me this is a quarter of the orbital period of Neptune!
+Wolfram tells me this is a quarter of the orbital period of Neptune[!](https://www.wolframalpha.com/input?i=1.29969418960244648318042813455657492354740061162079510703363+%C3%97+10%5E9+seconds)
 
 And this is only the lower bound (15 character passphrase + 4 extra characters)
