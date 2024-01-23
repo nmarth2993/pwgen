@@ -9,6 +9,19 @@ Inserts non-alphanumeric characters at random indexes to decrease effectiveness 
 python3 pwgen.py
 ```
 
+The script is a simple python input loop that prompts for a number of passwords to generate.
+
+```
+[info] loaded 2330 words
+
+number of passwords to generate (q to quit): 3
+sTrinGunc577o*=/vergalaxy
+OniOns%|trangeim230press
+inpUTu963Ps|(etcanVas
+
+number of passwords to generate (q to quit): q
+```
+
 ## Notes
 
 The very short wordlist was provided to hashcat with the [One Rule to Rule Them All](https://github.com/NotSoSecure/password_cracking_rules) and none of the ~1000 hashes were cracked.
